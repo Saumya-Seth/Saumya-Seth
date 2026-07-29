@@ -7,19 +7,17 @@
 
 ---
 
-Automation & Growth Lead at **[Paradyse Homes](https://paradysehomes.com)**, building AI-powered workflows, lifecycle systems, sales automation, and the occasional thing that probably shouldn't exist yet.
-
-Working at the intersection of technical systems and human behaviour. Not to automate everything, but to figure out where humans still need to be.
+Automation & Growth Lead at **[Paradyse Homes](https://paradysehomes.com)**, building AI-powered workflows, lifecycle systems, sales automation, and creative experiments.
 
 <br>
 
-**What I think about**
+## What I'm into
 
-- How AI is changing the texture of creative and strategic work
+- Creative technology and experimental interfaces
+- AI-native products and workflows  
 - Growth, lifecycle, and how good products find their people
-- Experimental interfaces and new forms of the internet
+- Interactive web and new forms of the internet
 - Human creativity and judgment in an automated world
-- Products that feel inevitable in hindsight
 
 <br>
 
