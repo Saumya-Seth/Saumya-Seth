@@ -2,7 +2,7 @@
   <br>
   <h2>Saumya Seth</h2>
   <p>Growth &nbsp;·&nbsp; Product &nbsp;·&nbsp; AI &nbsp;·&nbsp; Design</p>
-  <br>
+
 </div>
 
 ---
