@@ -33,4 +33,4 @@ Automation & Growth Lead at **[Paradyse Homes](https://paradysehomes.com)**, bui
 
 ---
 
-<sub>Currently building <a href="https://github.com/Saumya-Seth/versus-pages">versus-pages</a> — generate on-brand competitor comparison pages from any two URLs.</sub>
+<sub>Currently building <a href="https://www.tryfork.online/">Fork</a>: Decision Analytics AI Studio for Small Teams</sub>
