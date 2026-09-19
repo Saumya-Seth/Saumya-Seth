@@ -33,4 +33,4 @@ Automation & Growth Lead at **[Paradyse Homes](https://paradysehomes.com)**, bui
 
 ---
 
-<sub>Currently building <a href="https://www.tryfork.online/">Fork</a>: Decision Analytics AI Studio for Small Teams</sub>
+ ☆ Currently building <a href="https://www.tryfork.online/">Fork</a>: Decision Analytics AI Studio for Small Teams
